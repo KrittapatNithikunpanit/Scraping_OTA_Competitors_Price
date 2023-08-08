@@ -1,4 +1,5 @@
 ## Scraping OTA competitor's price
+> Selenium
 
 ### Project background : 
 Users is one of the airport pickup car service provider in Thailand, and they listed their service on several OTA platforms. As per the recovery of travel industry in Thailand, many service get into RED-OCEAN. Price become more sensitive,so users want to update the price every 2 hours by 1 THB lower from lowest competitor price.
