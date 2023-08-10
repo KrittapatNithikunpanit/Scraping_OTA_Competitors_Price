@@ -6,7 +6,7 @@ Users is one of the airport pickup car service provider in Thailand, and they li
 
 ### Business Requirement : 
 1. Scrape all competitors price (including users listing price)
-2. adjust the price by excel formula
-3. bulk update by uploading excel into platform
+2. adjust the price by excel formula in template
+3. bulk update by uploading excel into platform by a few click
 
 **Target website** : https://m.ctrip.com/webapp/zhuanche/airport-transfers/index?s=car&ptgroup=17&biztype=32&channelid=90189
